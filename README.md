@@ -20,10 +20,7 @@ The Aerofit market research team wants to:
 
 ---
 
-## Data (what the notebook expects)
-
-**Primary dataset referenced in the notebook:** `/content/aerofit.csv`
-(For the repo, place it as `data/aerofit.csv`.)
+## Data
 
 ### Inferred data dictionary
 
@@ -58,7 +55,7 @@ The notebook used these columns (please ensure your CSV has matching names):
 
 ---
 
-## Analysis performed (notebook outline)
+## Analysis performed 
 
 1. Data loading
 2. Data preprocessing (missing values, type fixes, new buckets)
@@ -91,23 +88,6 @@ The notebook used these columns (please ensure your CSV has matching names):
 * **Re-evaluate KP781** — adjust positioning, pricing, or target premium channels.
 * **Use education & fitness signals** to sharpen ad targeting.
 
----
-```
 
-
-## Requirements (starter)
-
-```
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
-scipy
-statsmodels
-```
----
-
-**Author / Contact:** Vishal
 
 ---
